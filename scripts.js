@@ -8,5 +8,5 @@ function trocaImagem(endereco){
 }
 
 function trocaCor(cor){
-   circulo.styles.background = cor
+   circulo.style.background = cor
 }
